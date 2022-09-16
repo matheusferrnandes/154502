@@ -8,5 +8,6 @@ I'm majoring in web design, and a little bit of beck-end
 - 🌱 I’m currently learning Systems Development, C, Web Design
 - Linkedin: https://www.linkedin.com/in/matheus-fernandes-681b18183/
 - Email: matheusferrrnandes@gmail.com
-"Convert in reverse, as many times as necessary."
+- "Convert in reverse, as many times as necessary."
+
 
