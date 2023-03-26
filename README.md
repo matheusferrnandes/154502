@@ -1,18 +1,25 @@
-# Seja bem vindo ao meu GitHub #
+# Olá!! Me chamo <a href="https://www.linkedin.com/in/matheus-fernandes-681b18183/">Matheus Fernandes</a>,bem-vindo(a) ao meu GitHub 👻 #
 
- Me formando em Engenharia Civil, buscando uma oportunidade na area de desenvolvimento!
+ <div align="center">
+  <a href="https://github.com/matheusferrnandes">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusferrnandes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrnandes&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div><br>
 
 
-- 👋 Olá!Me chamo Matheus Fernandes
+<div align="center">
 
-- 🌱 Comecei minha jornada de estudo como desenvolvedor front-end, trabalhando principalmente com HTML, CSS e JavaScript. Embora tenha amado essa area eu sempre tive curiosidade sobre o lado do back-end do desenvolvimento. Hoje meu estudo é focado em Java, ainda estou no começo da jornada, mas sinto que algo grandioso vem por ai.
-
-- 👀 Atualmente estudando Desenvolvimento Back-End em Java , na EBAC (Escola Britânica de Artes Criativas e Tecnologia) 
-
-- Linkedin: https://www.linkedin.com/in/matheus-fernandes-681b18183/
-
-- Email: matheusferrrnandes@gmail.com
-
-- "Convert in reverse, as many times as necessary."
-
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
